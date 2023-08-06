@@ -25,4 +25,5 @@ def predict_soft(number = 1) -> int:
     if i == number:
       return count
 
+
 g2.score_game(predict_soft)
